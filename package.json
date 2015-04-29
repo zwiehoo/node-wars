@@ -1,0 +1,22 @@
+{
+  "name": "node-wars",
+  "version": "0.0.1",
+  "description": "Node Wars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zwiehoo/node-wars.git"
+  },
+  "author": "Dark Side of the Nodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwiehoo/node-wars/issues"
+  },
+  "homepage": "https://github.com/zwiehoo/node-wars",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
